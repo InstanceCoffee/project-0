@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Installation
-go to the cloned directory na run `npm install`
+In your terminal, go to the cloned directory, and run `npm install`
 
 ## Development server
 
