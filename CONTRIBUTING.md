@@ -1,4 +1,4 @@
-# Contributing to Project0 by Instance Coffee
+# Contributing to Project\[0\] by Instance Coffee
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
