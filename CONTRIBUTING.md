@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Go to the cloned directory: `cd project-0`
 3. Install node modules: `npm install`
 4. Hack away! Source for the app are in directory `src/app/`
+5. For issues that we think are good for starting contributors, head over to the [Issues](https://github.com/InstanceCoffee/project-0/issues) page and look for issues labeled as *good first issue*
 
 ## Development server
 
