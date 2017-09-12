@@ -7,6 +7,7 @@ The project will be an expense tracking app with collaboration functionality for
 Some links:
 - For details on how to contribute, check out our [Contributing Guide](https://github.com/InstanceCoffee/project-0/blob/master/CONTRIBUTING.md)
 - For the project's community guidelines, please read our [Code of Conduct](https://github.com/InstanceCoffee/project-0/blob/master/CODE_OF_CONDUCT.md)
+- For legal matters, here is our [License](https://github.com/InstanceCoffee/project-0/blob/master/LICENSE)
 
 
 The following details are yet to be written:
