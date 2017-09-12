@@ -1,5 +1,7 @@
 # Project0
 
+An expense tracking app with collaboration functionality for friends and colleagues.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Installation
