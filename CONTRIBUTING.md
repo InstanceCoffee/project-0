@@ -3,7 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Installation
-In your terminal, go to the cloned directory, and run `npm install`. Check package.json for dependencies.
+1. Clone the projet: `$git clone git@github.com:InstanceCoffee/project-0.git`
+2. Go to the cloned directory: `cd project-0`
+3. Install node modules: `npm install`
+4. Hack away! Source for the app are in directory `src/app`
 
 ## Development server
 
